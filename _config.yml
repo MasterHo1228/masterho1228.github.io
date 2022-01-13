@@ -103,8 +103,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repo: https://github.com/masterho1228.github.io
+  repo: git@github.com:MasterHo1228/masterho1228.github.io.git
   branch: master
-- type: git
-  repo: https://gitee.com/MasterHo1228/jonyho-blog
-  branch: master  

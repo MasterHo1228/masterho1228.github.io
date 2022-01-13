@@ -104,4 +104,4 @@ theme: fluid
 deploy:
 - type: git
   repo: git@github.com:MasterHo1228/masterho1228.github.io.git
-  branch: master
+  branch: gh-pages

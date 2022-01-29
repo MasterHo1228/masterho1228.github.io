@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/favicon.png
+favicon: /favicon.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/favicon.png
+apple_touch_icon: /favicon.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -877,6 +877,7 @@ about:
     - { class: "iconfont icon-gitee-fill", link: "https://gitee.com/MasterHo1228", tip: "Gitee" }
     - { class: "iconfont icon-weibo-fill", link: "https://weibo.com/1799360804", tip: "微博" }
     - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/3051298", tip: "哔哩哔哩" }
+    - { class: 'iconfont icon-wechat-fill', qrcode: '/wechat-public-account.png' }
 
 
 #---------------------------

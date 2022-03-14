@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "filelist": "https://registry.npmmirror.com/FileList/-/FileList-1.0.2.tgz",
-    "hexo": "^6.0.0",
+    "hexo": "^6.1.0",
     "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

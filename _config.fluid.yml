@@ -39,6 +39,11 @@ code:
   # Enable copy code button
   copy_btn: true
 
+  # 代码块支持显示代码语言
+  language:
+    enable: true
+    default: "TEXT"
+
   # 代码高亮
   # Code highlight
   highlight:
@@ -58,16 +63,14 @@ code:
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
       style: "Github Gist"
-
-      # 是否根据 style 改变代码背景色（如果 style 是深色背景别忘了开启此项）
-      # If true, the code background will change color based on the style (If style has a dark background, don't forget to true)
-      bg_color: false
+      style_dark: "dark"
 
     prismjs:
       # 在下方链接页面右侧的圆形按钮挑选 style 填入，也可以直接填入 css 链接
       # Select the style button on the right side of the link page, you can also set the CSS link
       # See: https://prismjs.com/
       style: "default"
+      style_dark: "tomorrow night"
 
       # 设为 true 高亮将本地静态生成（并只支持部分 prismjs 插件），设为 false 高亮将在浏览器通过 js 生成
       # If true, it will be generated locally (but some prismjs plugins are not supported). If false, it will be generated via JS in the browser
@@ -80,6 +83,8 @@ fun_features:
   # Typing animation for subtitle
   typing:
     enable: true
+    # 支持指定页面下开启
+    scope: []  # Options: home | post | tag | category | about | links | page | 404
 
     # 打印速度，数字越大越慢
     # Typing speed, the larger the number, the slower
@@ -189,6 +194,13 @@ color:
   scrollbar_color_dark: "#687582"
   scrollbar_hover_color: "#a6a6a6"
   scrollbar_hover_color_dark: "#9da8b3"
+
+  # 按钮类组件的背景色
+  button_bg_color: "transparent"
+  button_bg_color_dark: "transparent"
+  # 按钮类组件的悬浮背景色
+  button_hover_bg_color: "#f2f3f5"
+  button_hover_bg_color_dark: "#46647e"
 
 # 主题字体配置
 # Font
@@ -587,12 +599,14 @@ post:
     # 层级的折叠深度，0 是全部折叠，大于 0 后如果存在下级标题则默认展开
     # Collapse depth. If 0, all headings collapsed. If greater than 0, it will be expanded by default if there are sub headings
     collapseDepth: 0
+    placement: right
 
   # 版权声明，会显示在每篇文章的结尾
   # Copyright, will be displayed at the end of each post
   copyright:
     enable: true
     content: '本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="nofollow noopener">CC BY-SA 4.0 协议</a> ，转载请注明出处！'
+    license: 'BY'
 
   # 文章底部上一篇下一篇功能
   # Link to previous/next post
@@ -657,6 +671,14 @@ post:
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis
     type: disqus
+
+  # 文章分类侧板栏，可以在文章页关联展示当前分类下的文章
+  category_bar:
+    enable: true
+
+  # 文章图片标题支持开关
+  image_caption:
+    enable: true
 
 
 #---------------------------
@@ -903,6 +925,7 @@ page404:
   banner_img_height: 85
   banner_mask_alpha: 0.3
   subtitle: "Page not found"
+  redirect_delay: 5000 # 重定向到首页的延迟
 
 
 #---------------------------

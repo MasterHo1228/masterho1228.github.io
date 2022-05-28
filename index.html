@@ -7,8 +7,8 @@
 
 <head>
   <meta charset="UTF-8">
-  <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon.png">
-  <link rel="icon" href="/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon.png">
+  <link rel="icon" href="/favicon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
@@ -30,15 +30,19 @@
 <meta name="twitter:card" content="summary_large_image">
   
   
+  
   <title>Mad.Ho Production&#39;s Space</title>
 
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css" />
 
 
 
-<!-- 主题依赖的图标库，不要自行修改 -->
 
-<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
+
+<!-- 主题依赖的图标库，不要自行修改 -->
+<!-- Do not modify the link that theme dependent icons -->
+
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_hj8rtnfg7um.css">
 
 
 
@@ -47,21 +51,40 @@
 
 <link  rel="stylesheet" href="/css/main.css" />
 
-<!-- 自定义样式保持在最底部 -->
+
+  <link id="highlight-css" rel="stylesheet" href="/css/highlight.css" />
+  
+    <link id="highlight-css-dark" rel="stylesheet" href="/css/highlight-dark.css" />
+  
+
+
 
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
-    var CONFIG = {"hostname":"jonyho1228.xyz","root":"/","version":"1.8.14","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+    Fluid.ctx = Object.assign({}, Fluid.ctx)
+    var CONFIG = {"hostname":"jonyho1228.xyz","root":"/","version":"1.9.0","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false,"scope":[]},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"code_language":{"enable":true,"default":"TEXT"},"copy_btn":true,"image_caption":{"enable":true},"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"placement":"right","headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"follow_dnt":true,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null,"path":"window.location.pathname","ignore_local":false}},"search_path":"/local-search.xml"};
+
+    if (CONFIG.web_analytics.follow_dnt) {
+      var dntVal = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+      Fluid.ctx.dnt = dntVal && (dntVal.startsWith('1') || dntVal.startsWith('yes') || dntVal.startsWith('on'));
+    }
   </script>
   <script  src="/js/utils.js" ></script>
   <script  src="/js/color-schema.js" ></script>
-<meta name="generator" content="Hexo 6.0.0"></head>
+
+  
+<meta name="generator" content="Hexo 6.2.0"></head>
 
 
 <body>
-  <header style="height: 100vh;">
-    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
+  
+
+  <header>
+    
+
+<div class="header-inner" style="height: 100vh;">
+  <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
       <strong>Mad.Ho Production&#39;s Space</strong>
@@ -155,6 +178,7 @@
               &nbsp;<i class="iconfont icon-search"></i>&nbsp;
             </a>
           </li>
+          
         
         
           <li class="nav-item" id="color-toggle-btn">
@@ -167,34 +191,40 @@
   </div>
 </nav>
 
-    <div class="banner" id="banner" parallax=true
-         style="background: url('https://cdn.jsdelivr.net/gh/MasterHo1228/jonyho-global-photo-salon/20211213-DSCF0965.jpg') no-repeat center center;
-           background-size: cover;">
-      <div class="full-bg-img">
-        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
-          <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="低调君的小小沙龙">
-              
-            </span>
+  
 
-            
-          </div>
-
+<div id="banner" class="banner" parallax=true
+     style="background: url('https://cdn.jsdelivr.net/gh/MasterHo1228/jonyho-global-photo-salon/20211213-DSCF0965.jpg') no-repeat center center; background-size: cover;">
+  <div class="full-bg-img">
+    <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
+      <div class="banner-text text-center fade-in-up">
+        <div class="h2">
           
-            <div class="scroll-down-bar">
-              <i class="iconfont icon-arrowdown"></i>
-            </div>
+            <span id="subtitle" data-typed-text="低调君的小小沙龙"></span>
           
         </div>
+
+        
       </div>
+
+      
+        <div class="scroll-down-bar">
+          <i class="iconfont icon-arrowdown"></i>
+        </div>
+      
     </div>
+  </div>
+</div>
+
+</div>
+
   </header>
 
   <main>
     
       <div class="container nopadding-x-md">
-        <div class="py-5" id="board"
-          style=margin-top:0>
+        <div id="board"
+          style="margin-top: 0">
           
           <div class="container">
             <div class="row">
@@ -206,7 +236,105 @@
     
     
       <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2022/03/12/2022-03-12-Talk-my-recent-and-a-video/" target="_self">
+        <a href="/2022/05/27/share-experience-about-using-Ricoh-GR3x/" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a689f354815cf2ded94a0e.jpg" srcset="/img/loading.gif" lazyload alt="5月的慢拍时光-理光GR3x 一周使用体验">
+        </a>
+      </div>
+    
+    <article class="col-12 col-md-8 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/05/27/share-experience-about-using-Ricoh-GR3x/" target="_self">
+          5月的慢拍时光-理光GR3x 一周使用体验
+        </a>
+      </h1>
+
+      <a class="index-excerpt" href="/2022/05/27/share-experience-about-using-Ricoh-GR3x/" target="_self">
+        <div>
+          
+          如果问 当初入门摄影这个爱好领域，热衷于使用全画幅数码机的我，我会拒绝日常用理光GR这类卡片机，虽然理光GR系列 从迭代到使用cmos传感器直到现在 都是使用apsc画幅的cmos。从当初入门到现在，见过有一小部分爱好者为了扫街便携拍拍照片，专门买了一台理光gr自用，尤其是在 自己去市区里的一些小众咖啡店里的一些慕名来进店打卡的爱好者们。 从去年开始 自己决定转型 转化为拍视频创作为主，加上当时钱
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-05-27 20:02" pubdate>
+              2022-05-27
+            </time>
+          </div>
+        
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E6%91%84%E5%BD%B1/">#摄影</a>
+            
+              <a href="/tags/%E7%94%9F%E6%B4%BB/">#生活</a>
+            
+              <a href="/tags/%E6%97%A5%E5%B8%B8/">#日常</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+      <div class="col-12 col-md-4 m-auto index-img">
+        <a href="/2022/03/14/2022-03-14-Talk-Some-Opinion-About-Photograph/" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-14-title.jpg" srcset="/img/loading.gif" lazyload alt="碎碎念 | 聊一聊 我对近期摄影的一些观点">
+        </a>
+      </div>
+    
+    <article class="col-12 col-md-8 mx-auto index-info">
+      <h1 class="index-header">
+        
+        <a href="/2022/03/14/2022-03-14-Talk-Some-Opinion-About-Photograph/" target="_self">
+          碎碎念 | 聊一聊 我对近期摄影的一些观点
+        </a>
+      </h1>
+
+      <a class="index-excerpt" href="/2022/03/14/2022-03-14-Talk-Some-Opinion-About-Photograph/" target="_self">
+        <div>
+          
+          （以下内容极度主观，纯粹聊聊本人的一些想法，言论不代表所有摄影圈子内的专职人士以及爱好者。）    14th,March,2022今天，偶然在刷微博的时候 看到一位摄影博主分享的作品，作品的链接我放在下面吧，大家有兴趣可以点开看看~   作品链接在此~     作品本体的色调构图或者其他的元素好或坏另说；当时 在我看到这个作品的时候，我是忍不住转发出来的。其实不是我不止觉得出镜的女主角颜值高，也
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-03-14 22:15" pubdate>
+              2022-03-14
+            </time>
+          </div>
+        
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">#碎碎念</a>
+            
+              <a href="/tags/%E6%91%84%E5%BD%B1/">#摄影</a>
+            
+          </div>
+        
+      </div>
+    </article>
+  </div>
+
+  <div class="row mx-auto index-card">
+    
+    
+      <div class="col-12 col-md-4 m-auto index-img">
+        <a href="/2022/03/12/Talk-my-recent-and-a-video/" target="_self">
           <img src="https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/20220310095547.png" srcset="/img/loading.gif" lazyload alt="不经不觉到了3月，聊聊近况 | 顺便聊聊今天更新的创作短片的故事">
         </a>
       </div>
@@ -214,17 +342,17 @@
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/03/12/2022-03-12-Talk-my-recent-and-a-video/" target="_self">
+        <a href="/2022/03/12/Talk-my-recent-and-a-video/" target="_self">
           不经不觉到了3月，聊聊近况 | 顺便聊聊今天更新的创作短片的故事
         </a>
       </h1>
 
-      <p class="index-excerpt">
-        <a href="/2022/03/12/2022-03-12-Talk-my-recent-and-a-video/" target="_self">
+      <a class="index-excerpt" href="/2022/03/12/Talk-my-recent-and-a-video/" target="_self">
+        <div>
           
           大家久等了~ 先聊聊近况吧。在春节假期之前，自己是有拍了一套随拍的轻旅游照+Vlog素材的，原本是大概计划放到春节假期之后不久连带春节假期期间拍摄的一些 个人认为不错的生活瞬间凑一起发布一期Vlog视频的，但由于过年后，本职上有些事忙于应对，加上整个2月份天气比较一般，没啥创作的想法和机遇，就暂且残忍的咕了一个月了，哈哈哈🤣 在几天前，我之前合作拍摄过创作作品的小白同学找到了我 还有维哥和老王，
-        </a>
-      </p>
+        </div>
+      </a>
 
       <div class="index-btm post-metas">
         
@@ -240,9 +368,9 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/%E6%91%84%E5%BD%B1/">摄影</a>
+              <a href="/tags/%E6%91%84%E5%BD%B1/">#摄影</a>
             
-              <a href="/tags/%E7%94%9F%E6%B4%BB/">生活</a>
+              <a href="/tags/%E7%94%9F%E6%B4%BB/">#生活</a>
             
           </div>
         
@@ -254,7 +382,7 @@
     
     
       <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2022/01/29/2022-01-20-enjoy-the-spring-festival-in-guangzhou/" target="_self">
+        <a href="/2022/01/29/enjoy-the-spring-festival-in-guangzhou/" target="_self">
           <img src="https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4727.jpg" srcset="/img/loading.gif" lazyload alt="2022年，简单的在广州享受一下春节的气息">
         </a>
       </div>
@@ -262,17 +390,17 @@
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/01/29/2022-01-20-enjoy-the-spring-festival-in-guangzhou/" target="_self">
+        <a href="/2022/01/29/enjoy-the-spring-festival-in-guangzhou/" target="_self">
           2022年，简单的在广州享受一下春节的气息
         </a>
       </h1>
 
-      <p class="index-excerpt">
-        <a href="/2022/01/29/2022-01-20-enjoy-the-spring-festival-in-guangzhou/" target="_self">
+      <a class="index-excerpt" href="/2022/01/29/enjoy-the-spring-festival-in-guangzhou/" target="_self">
+        <div>
           
           2022年，广州今年依然跟去年一样，没有了2020年以前那样的集中式花市，改成了分布成各个小型的摊档形式的花市。实话说，我个人挺怀念以往逛着人山人海的花市的感觉的，虽然好几次只是我一个人去逛而已。。今年由于工作需要，春节前空闲的时间不多，就抽了一个早上的时间，去了一回一德路逛了一遍，尝试感受过年的气氛其实 去年差不多这个时间段我也去了一遍，这次主要是顺便带上我的富士相机[^Camera]，搭配一只
-        </a>
-      </p>
+        </div>
+      </a>
 
       <div class="index-btm post-metas">
         
@@ -288,7 +416,7 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/%E6%B8%B8%E8%AE%B0/">游记</a>
+              <a href="/tags/%E6%B8%B8%E8%AE%B0/">#游记</a>
             
           </div>
         
@@ -302,17 +430,17 @@
     <article class="col-12 col-md-12 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2022/01/13/2022-01-13-first-post/" target="_self">
+        <a href="/2022/01/13/first-post/" target="_self">
           抽空摸鱼，重新开了我的个人博客，随便在这叨叨~
         </a>
       </h1>
 
-      <p class="index-excerpt">
-        <a href="/2022/01/13/2022-01-13-first-post/" target="_self">
+      <a class="index-excerpt" href="/2022/01/13/first-post/" target="_self">
+        <div>
           
           抽空摸鱼，重新开了我的个人博客，随便在这叨叨~还记得第一次搭博客的时候，还是上一次（划掉   咳咳！说回正题吧。之所以重新上线自己的个人博客，主要是为了给自己的一个作品展示的平台（不论是技术开发向，摄影方向的，或者写点自己生活上的一些点点滴滴，也或者存粹给自己一个碎碎念的地方，），自己可能不会经常去维护，不过毕竟现在迈开第一步，起码给自己有一个乐观生活和奋斗的目标吧。   （我是不承认 自己因为是
-        </a>
-      </p>
+        </div>
+      </a>
 
       <div class="index-btm post-metas">
         
@@ -328,7 +456,7 @@
           <div class="post-meta">
             <i class="iconfont icon-tags"></i>
             
-              <a href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">碎碎念</a>
+              <a href="/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/">#碎碎念</a>
             
           </div>
         
@@ -367,42 +495,34 @@
       <div class="modal-body mx-3">
         <div class="md-form mb-5">
           <input type="text" id="local-search-input" class="form-control validate">
-          <label data-error="x" data-success="v"
-                 for="local-search-input">关键词</label>
+          <label data-error="x" data-success="v" for="local-search-input">关键词</label>
         </div>
         <div class="list-group" id="local-search-result"></div>
       </div>
     </div>
   </div>
 </div>
+
     
 
     
   </main>
 
-  <footer class="text-center mt-5 py-3">
-  <div class="footer-content">
-     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
-  </div>
+  <footer>
+    <div class="footer-inner">
   
-
+    <div class="footer-content">
+       <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+    </div>
   
-  <!-- 备案信息 -->
-  <div class="beian">
-    <span>
-      <a href="http://beian.miit.gov.cn/" target="_blank" rel="nofollow noopener">
-        粤ICP备2022012840号
-      </a>
-    </span>
-    
-  </div>
-
-
   
-</footer>
+  
+  
+</div>
 
+  </footer>
 
-  <!-- SCRIPTS -->
+  <!-- Scripts -->
   
   <script  src="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.js" ></script>
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.css" />
@@ -421,35 +541,18 @@
 <script  src="/js/events.js" ></script>
 <script  src="/js/plugins.js" ></script>
 
-<!-- Plugins -->
-
-
-  <script  src="/js/local-search.js" ></script>
-
-
-
-  
-    <script  src="/js/img-lazyload.js" ></script>
-  
-
-
-
-  
-
-
-
-
-
-
-
 
   <script  src="https://cdn.jsdelivr.net/npm/typed.js@2/lib/typed.min.js" ></script>
   <script>
     (function (window, document) {
       var typing = Fluid.plugins.typing;
-      var title = document.getElementById('subtitle').title;
+      var subtitle = document.getElementById('subtitle');
+      if (!subtitle || !typing) {
+        return;
+      }
+      var text = subtitle.getAttribute('data-typed-text');
       
-        typing(title);
+        typing(text);
       
     })(window, document);
   </script>
@@ -459,18 +562,28 @@
 
 
 
+  
+    <script  src="/js/img-lazyload.js" ></script>
+  
+
+
+
+
+  <script  src="/js/local-search.js" ></script>
 
 
 
 
 
-
-
-
-
-<!-- 主题的启动项 保持在最底部 -->
+<!-- 主题的启动项，将它保持在最底部 -->
+<!-- the boot of the theme, keep it at the bottom -->
 <script  src="/js/boot.js" ></script>
 
 
+  
+
+  <noscript>
+    <div class="noscript-warning">博客在允许 JavaScript 运行的环境下浏览效果更佳</div>
+  </noscript>
 </body>
 </html>

@@ -36,6 +36,9 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9140.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9144.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9205.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9143.jpg)  
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9192.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9198.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9207.jpg)  
   
+总的来说，如果对火车方面的历史有兴趣了解的话，这里是值得安排去一趟看看的。（需要先在他们的微信小程序预约）  
+  
+  
 故地重游后，如果忽略了中间这相隔两年的时间，两年前的那次踩点，算是进入了博物馆这块地方的“平行空间”一般，现在博物馆的模样应该才是这里的正确形态吧。  
 其实 上面提到的踩点拍摄下来的图片，是在参观完博物馆之后，才想起 曾经确实是来过这个地方并且拍过照片，翻了一遍网盘中的文件才找到的。  
 回想起来，当时是忘记要求冲扫胶卷的店家回寄底片，只拿了扫描底片后的照片，之后工作一忙起来，忙中偷闲整理胶片的底片的时候就忘了有这一回事了，自然这段记忆就被我自己遗忘在自己的网盘空间里了。  

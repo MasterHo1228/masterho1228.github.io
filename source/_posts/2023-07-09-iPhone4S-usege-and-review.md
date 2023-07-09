@@ -53,7 +53,6 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 ![“祖先”与“父亲”的合影](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-DSCF5833.jpg)
 然后就带了它出门，继续了相隔接近 1 年的过时数码相机扫街计划。
 
-**（附上一些手机外观图 + 手机拍的生图）**
 ![“太上祖老爷”看着他的“祖孙”的样子](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0005.jpg)
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0006.jpg)
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0020.jpg)

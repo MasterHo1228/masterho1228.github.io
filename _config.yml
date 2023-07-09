@@ -107,4 +107,4 @@ deploy:
   branch: gh-pages
 - type: git
   repo: git-webupdate@192.168.1.60:/opt/www/html/jonyho1228-blog.git
-  branch: main
+  branch: master

@@ -21,7 +21,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 
 除此之外一方面来说，收这台当年的“街机”，也算是圆了我当年眼馋但没能力拥有的遗憾了（别笑，在我成年之前家管严不能用价值高的手机😹）。
 
-然后，当时我打开了海鲜市场的 App，毫不犹豫的收了一台外观还算良好 iPhone 4。
+然后，当时我打开了海鲜市场的 App，毫不犹豫收了一台外观还算良好的 iPhone 4。
 
 # 我与iPhone 4S的前身：iPhone 4的小故事
 

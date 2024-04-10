@@ -4,12 +4,12 @@
 
 # Site
 title: Mad.Ho Production's Space
-subtitle: '低调君的小小沙龙'
-description: '这里主要展示本人以往的摄影作品，偶尔在这发点日常自学开发的记录或者生活上的碎碎念'
-keywords: 博客,摄影,生活,JavaScript,html5,css3,php,laravel
+subtitle: '低調君的小小沙龍'
+description: '這裏是我post自己玩攝影器材的文章之「隱世」小店。都會間中在此寫下自己生活的牢騷片段。'
+keywords: 博客,blog,摄影,photography,生活,life,JavaScript,html5,css3,php,laravel
 author: Jony Ho
-language: zh-CN
-timezone: 'Asia/Shanghai'
+language: zh-HK
+timezone: 'Asia/Hong_Kong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

@@ -105,6 +105,3 @@ deploy:
 - type: git
   repo: https://github.com/MasterHo1228/masterho1228.github.io.git
   branch: gh-pages
-- type: git
-  repo: git-webupdate@192.168.1.60:/opt/www/html/jonyho1228-blog.git
-  branch: master

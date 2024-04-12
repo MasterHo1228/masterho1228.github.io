@@ -31,7 +31,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 （顺便给大家看看最近自己收集到的一些生活碎片）
 
 (标准风格直出)  
-{% gi 7 2-2-3... %}
+{% gi 7 2-2-3 %}
   ![位于佛山禅城的培德里，在广州市区之外可以找到现代广府人原生生活气息的地方，难得](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004204.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004198.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004206.jpg)
@@ -42,7 +42,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 {% endgi %} 
 
 （黑白风格直出）  
-{% gi 8 2-2-2-2... %}
+{% gi 8 2-2-2-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004461.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220518-R0004584.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004165.jpg)
@@ -62,7 +62,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 机子到手第二天，去了一趟老地方 有力咖啡 拍拍老板在店里的一些小手办，探望一下已经发福的猫老板🐱  
 
 （下面图片开始 部分图片使用了机内的反转片滤镜直出，个人觉得这个机内风格直出最合我的口味，几乎不用后期调色处理就能出片了。）（部分图片开了微距模式拍摄）  
-{% gi 14 2-3-3-3-3... %}
+{% gi 14 2-3-3-3-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004310.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004304.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004265.jpg)  
@@ -80,7 +80,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 {% endgi %}
 
 （之后的拍摄 基本上用反转片滤镜比较多了，标准滤镜为辅~）  
-{% gi 5 2-3... %}
+{% gi 5 2-3 %}
   ![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004418.jpg)  
   ![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004424.jpg) 
   ![路人带着孩子 自行车上挂着冰墩墩的气球](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004490.jpg)  
@@ -89,7 +89,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 {% endgi %} 
 
 （至于人像拍摄的部分。。。。嗯，由于近期请不动模特小姐姐，拍一下猫老板们当人像照片吧🌚🌚）  
-{% gi 5 2-3... %}
+{% gi 5 2-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004566.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004568.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004516.jpg)  
@@ -98,21 +98,21 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 {% endgi %}
   
 （雨天 下午 走到有势咖啡 等雨停）  
-{% gi 3 1-2... %}
+{% gi 3 1-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004634.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004628.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004638.jpg)
 {% endgi %}  
 
 （依旧钟爱反转片直出~）
-{% gi 3 1-2... %}
+{% gi 3 1-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004620.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004657.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004662.jpg)
 {% endgi %}  
 
 （邪恶的烤肉局）  
-{% gi 3 1-2... %}
+{% gi 3 1-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004687.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004689.jpg)  
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004691.jpg)

@@ -26,7 +26,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/202203100955
 在定下去公园拍摄的时候，当时我个人觉得 环境是肯定不容乐观的了，毕竟周末路人不会少，场地环境非常不可控。
 除了环境之外，原本我主要为了省下一点成本，想借用一下某个朋友的稳定器辅助拍摄一些偏机动的分镜的，不过很不巧，那位好朋友不太方便拿稳定器出来市区，就只好先打消用稳定器的念头，改用手持拍摄，因此咬咬牙买了一个上提手柄装在相机上现场拍摄了...
 （下面来一波买家秀的图）  
-{% gi 3 1-2... %}
+{% gi 3 1-2 %}
   ![这就是我这次买的上提手柄，来自Ulanzi F22小隼快装系统](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-12-01.jpg)
   ![手柄上机效果](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-12-02.jpg)
   ![手柄上机效果（忽略略凌乱的背景🌚）](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-12-03.jpg)

@@ -26,7 +26,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 
 # 我与iPhone 4S的前身：iPhone 4的小故事
 
-{% gi 5 2-3... %}
+{% gi 5 2-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20220731-DSCF9973.jpg)
   ![清晨的阳光](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20220801-IMG_0092.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20220805-IMG_0102.jpg)
@@ -52,7 +52,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 
 大概在今年 6 月上旬，我偶然看到了某一位玩二手相机而出名的 UP 主的视频，他在视频里介绍了 iPhone 4S 这台手机。接着我就一股脑的打开了海鲜市场，找到了一台略微少见的保留着使用 iOS 6.1.3 版本系统的 iPhone 4S，就联系上了卖家，啪的一下就下单买到手了，很快哈！
 
-{% gi 2 1-1... %}
+{% gi 2 1-1 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-DSCF5834.jpg)
   ![“祖先”与“父亲”的合影](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-DSCF5833.jpg)
 {% endgi %}
@@ -60,7 +60,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 
 ![“太上祖老爷”看着他的“祖孙”的样子](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0005.jpg)
 
-{% gi 6 3-3... %}
+{% gi 6 3-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0006.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0020.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0015.jpg)
@@ -73,7 +73,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 拿出门的第一天，就给了一位同行去探店的小姐姐看了下用这台手机拍摄出来的图片，也说确实有一股熟悉的“CCD”相机的味道，虽然细节上不是很像。不过嘛，拿合理的价格来平心而论，这台手机是很值的。
 
 ## 带着4s去体验人生中第一次“厨师发版”
-{% gi 10 3-3-3-4... %}
+{% gi 10 3-3-3-4 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0021.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0026.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230611-IMG_0027.jpg)
@@ -87,7 +87,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 {% endgi %}
 
 ## 出门的日常记录
-{% gi 28 3-3-3-3-3-3-3-3-4... %}
+{% gi 28 3-3-3-3-3-3-3-3-4 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230706-DSCF6226.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230701-DSCF6183.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230622-IMG_0075.jpg)
@@ -122,7 +122,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 当然，也需要提一下这台“相机”的缺点的。
 
 虽然在日光光照充足的环境下，这台“相机”的成像是大略可以蹭一点正统的卡片机的“车边”的。但由于当时的手机的摄像头远远没有近 3 年内的手机摄像头技术点这么发达，一遇到阴天、室内环境、或者晚上的场景，对焦各种抽风、曝光抽风、噪点爆炸、快门反应粘滞的缺点会毫不意外的暴露出来。
-{% gi 5 2-3... %}
+{% gi 5 2-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230622-IMG_0076.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230624-IMG_0077.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230625-IMG_0104.jpg)
@@ -134,7 +134,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/2023062
 所以我的建议是，当它是一台“日光机”图一乐玩玩，顺便可以当作一台精致的iPod Touch就好，别为难这位“太上祖老爷”啦 🤓。
 
 ## 这里放一点给手机“吸猫”的时刻吧🌑
-{% gi 7 2-2-3... %}
+{% gi 7 2-2-3 %}
   ‍![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230620-IMG_0055.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230620-IMG_0072.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230620-IMG_0056.jpg)

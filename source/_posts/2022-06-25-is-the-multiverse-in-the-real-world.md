@@ -14,7 +14,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
 
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990007.jpg)  
 
-{% gi 11 2-3-3-3... %}
+{% gi 11 2-3-3-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990008.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990011.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990010.jpg)
@@ -28,7 +28,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990023.jpg)
 {% endgi %}  
   
-{% gi 7 2-2-3... %}
+{% gi 7 2-2-3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990034.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990032.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990033.jpg)
@@ -37,7 +37,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990025.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990028.jpg)
 {% endgi %}  
-{% gi 4 2-2... %}
+{% gi 4 2-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990035.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990030.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990031.jpg)
@@ -53,7 +53,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
   
 直到今年5月份看到某个公众号的推文 官宣了广州铁路博物馆开放对外展览。这时候才知道 两年前 曾经踩点拍摄过的这个地方，现在变成了博物馆的场馆，就特意找了一个好天气再去一遍看看。  
 
-{% gi 4 2-2... %}
+{% gi 4 2-2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9153.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9184.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9187.jpg)
@@ -64,7 +64,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9226.jpg)
 
 （这里开始是博物馆的2号馆内景，对应上面黑白照片的前半部分的照片所处的地方）
-{% gi 10 5-5... %}
+{% gi 10 5-5 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9210.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9211.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9213.jpg)
@@ -78,7 +78,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000
 {% endgi %}
  
 （下面是1号馆的内景，除了场馆中间 展示火车水牌的区域，基本都是室内展览）  
-{% gi 7 3-4... %}
+{% gi 7 3-4 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9140.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220616-DSCF9144.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220621-DSCF9205.jpg)

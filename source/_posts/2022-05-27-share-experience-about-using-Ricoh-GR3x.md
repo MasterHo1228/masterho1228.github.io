@@ -31,71 +31,92 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a68
 （顺便给大家看看最近自己收集到的一些生活碎片）
 
 (标准风格直出)  
-![位于佛山禅城的培德里，在广州市区之外可以找到现代广府人原生生活气息的地方，难得](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004204.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004198.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004206.jpg)
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004218.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004194.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004227.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004221.jpg)  
+{% gi 7 2-2-3... %}
+  ![位于佛山禅城的培德里，在广州市区之外可以找到现代广府人原生生活气息的地方，难得](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004204.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004198.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004206.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004218.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004194.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004227.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004221.jpg)
+{% endgi %} 
 
 （黑白风格直出）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004461.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220518-R0004584.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004167.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004165.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004229.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220518-R0004585.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220519-R0004611.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004249.jpg)  
+{% gi 8 2-2-2-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004461.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220518-R0004584.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004165.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004229.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004167.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220518-R0004585.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220519-R0004611.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004249.jpg)
+{% endgi %}  
 
 （刚收到这台机子的时候，略微试用了一下机内的留银冲洗的滤镜效果，如果有看过是枝裕和执导的《海街日记》这部电影的话，估计会觉得很熟悉~）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220515-R0004081.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220515-R0004119.jpg)  
+{% gi 2 2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220515-R0004081.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220515-R0004119.jpg)
+{% endgi %} 
 
 机子到手第二天，去了一趟老地方 有力咖啡 拍拍老板在店里的一些小手办，探望一下已经发福的猫老板🐱  
 
 （下面图片开始 部分图片使用了机内的反转片滤镜直出，个人觉得这个机内风格直出最合我的口味，几乎不用后期调色处理就能出片了。）（部分图片开了微距模式拍摄）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004310.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004304.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004265.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004266.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004271.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004267.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004269.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004320.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004337.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004317.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004316.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004338.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004356.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004360.jpg)  
+{% gi 14 2-3-3-3-3... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004310.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004304.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004265.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004266.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004271.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004267.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004269.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004320.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004337.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004317.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004316.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004338.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004356.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220516-R0004360.jpg)
+{% endgi %}
+
 （之后的拍摄 基本上用反转片滤镜比较多了，标准滤镜为辅~）  
-![去了一家手机维修店办点正事，随拍，有点意思](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004396.jpg)  
-![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004418.jpg)  
-![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004424.jpg)  
-![路人带着孩子 自行车上挂着冰墩墩的气球](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004490.jpg)  
-![到手第三天 夕阳时随拍的鳞片云](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004495.jpg)  
+{% gi 5 2-3... %}
+  ![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004418.jpg)  
+  ![咖啡店一角](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004424.jpg) 
+  ![路人带着孩子 自行车上挂着冰墩墩的气球](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004490.jpg)  
+  ![到手第三天 夕阳时随拍的鳞片云](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004495.jpg)
+  ![去了一家手机维修店办点正事，随拍，有点意思](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004396.jpg)
+{% endgi %} 
+
 （至于人像拍摄的部分。。。。嗯，由于近期请不动模特小姐姐，拍一下猫老板们当人像照片吧🌚🌚）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004566.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004568.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004516.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004523.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004573.jpg)  
+{% gi 5 2-3... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004566.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004568.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004516.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004523.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220517-R0004573.jpg)
+{% endgi %}
+  
 （雨天 下午 走到有势咖啡 等雨停）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004634.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004628.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004638.jpg)  
+{% gi 3 1-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004634.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004628.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004638.jpg)
+{% endgi %}  
 
 （依旧钟爱反转片直出~）
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004620.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004657.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004662.jpg)  
+{% gi 3 1-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220521-R0004620.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004657.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004662.jpg)
+{% endgi %}  
 
 （邪恶的烤肉局）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004687.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004689.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004691.jpg)
+{% gi 3 1-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004687.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004689.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/20220522-R0004691.jpg)
+{% endgi %}
 
 总的来说，我个人这几天用下来 在街拍随手拍的场景下 GR3x是一台越用越香的机子，但由于屏幕和对焦这两点，不太适合放在实际拍摄强度偏高的场景使用（当然这台机子 设计上考虑到的是没注重放在强度偏高的场景下优化的，也不太算是缺点啦~）
 如果将来有买这台机子的闲钱，或许会考虑买一台成色比较新的二手机器自用的（截稿之前看过海鲜市场，GR3x的价格还是偏高的，估计等下一代机型出来了之后或许会便宜一点）

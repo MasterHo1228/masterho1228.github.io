@@ -15,37 +15,46 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSC
 # 2022年1月20日 早上 出发
 在乘坐地铁去往一德路的路上，我决定先去到文化公园附近，看一看一些自己印象中熟悉的地方 人烟稀少的样子。
 
-![文化公园地铁站附近 街拍图](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4708.jpg "文化公园地铁站附近 街拍 拉着纸皮箱的人")  
-![文化公园地铁站附近 街拍图](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4709.jpg "文化公园地铁站附近 街拍 斑马线上")  
+{% gi 2 1-1... %}
+  ![文化公园地铁站附近 街拍图](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4708.jpg "文化公园地铁站附近 街拍 拉着纸皮箱的人")
+  ![文化公园地铁站附近 街拍图](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4709.jpg "文化公园地铁站附近 街拍 斑马线上")
+{% endgi %} 
 大概在那天开始，市区里路上的人们逐渐少了，看来今年决定回老家的人们比往年明显多了。  
   
 接着 徒步走到了西堤二马路和人民南路的交界 走上在新华大酒店对出路口的天桥上看着。。
-![新华大酒店对出路口](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4710.jpg "在新华大酒店对出路口的天桥上看着稀疏的车流")  
-![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4712.jpg "人民南路 稀疏的车流")  
+{% gi 2 1-1... %}
+  ![新华大酒店对出路口](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4710.jpg "在新华大酒店对出路口的天桥上看着稀疏的车流")
+  ![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4712.jpg "人民南路 稀疏的车流")
+{% endgi %} 
   
 走往一德路的路上 随手拍拍~  
-![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4716.jpg "人民南路车站")  
-![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4719.jpg "人民南路车站旁边 被商店随便安放的人模")  
-![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4722.jpg "停在路边的一排电动车")  
+{% gi 3 1-1-1... %}
+  ![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4716.jpg "人民南路车站")
+  ![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4719.jpg "人民南路车站旁边 被商店随便安放的人模")
+  ![人民南路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4722.jpg "停在路边的一排电动车")
+{% endgi %}
   
 # 过了一会，徒步走到了一德路  
 ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4727.jpg "一德西公交车站旁")  
 虽然路上人不算多，不过春节红的气氛还是到位的~  
   
+{% gi 4 2-2... %}
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4724.jpg "挂满春联福字的商铺")
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4731.jpg "在选购春联的路人")
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4738.jpg "在选购春联的路人")
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4734.jpg "挂满春联的店铺里面")
+{% endgi %}  
 
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4724.jpg "挂满春联福字的商铺")  
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4731.jpg "在选购春联的路人")  
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4738.jpg "在选购春联的路人")  
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4734.jpg "挂满春联的店铺里面")  
-  
 既然走到了一德路这边，圣心大教堂（在我们广州本地人叫它“石室”，因为教堂主要用花岗岩石砌造的，具体可以另行搜索了解一下哈）  
 路过了总得要看一眼的，嘻嘻~  
 （现在教堂不完全对外开放参观了，只能在外面拍一张啦）  
 ![圣心大教堂](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4744.jpg "熟悉的圣心大教堂")  
   
 一德路，在本地人印象中，同样也是采购干货海产品 首选的好地方。  
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4739.jpg "选购干货的人们")  
-![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4743.jpg "忙里偷闲 出店外吃点花生")  
+{% gi 2 1-1... %}
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4739.jpg "选购干货的人们")
+  ![一德路](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4743.jpg "忙里偷闲 出店外吃点花生")
+{% endgi %}  
 
 （完）  
 ---  

@@ -919,11 +919,11 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/jonyho-global-photo-salon@master/20220522-R0004657.jpg
   banner_img_height: 85
   banner_mask_alpha: 0.3
   subtitle: "Page not found"
-  redirect_delay: 5000 # 重定向到首页的延迟
+  redirect_delay: 10000 # 重定向到首页的延迟
 
 
 #---------------------------

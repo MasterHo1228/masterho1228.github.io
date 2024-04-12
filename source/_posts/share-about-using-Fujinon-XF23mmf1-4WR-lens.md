@@ -17,25 +17,31 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSC
 <iframe src="//player.bilibili.com/player.html?bvid=BV1E34y1L7F9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px" width="640px"> </iframe>  
 <iframe src="//player.bilibili.com/player.html?bvid=BV1yU4y197Wo" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="480px" width="640px"> </iframe>  
   
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8843.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8851.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8870.jpg)  
+{% gi 3 1-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8870.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8843.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8851.jpg)
+{% endgi %}
   
 图片拍摄方面，镜头光圈全开，画质相比老款提升确实挺大，老款定焦全开成像会有一丝“复古”感。
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8757.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8607.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8666.jpg)  
+{% gi 3 1-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8666.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8757.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20210220-DSCF8607.jpg)
+{% endgi %} 
   
 新款镜头虽然是改掉了老款镜头光圈全开的时候成像松散的现象，焦内细腻不直锐，焦外柔软但不暴力化开，色散几乎可以忽略不计，但始终有一股数码的味道，没了老款镜头“玄学”的意境。但，这瑕不掩瑜，这方面提升还是值得买单的。（幸好没学透适马老款Art定焦镜头 耿直的刀锐奶化的画风，哈哈哈）  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8797.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8890.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8989.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8964.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8946.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8934.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8933.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8895.jpg)  
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8896.jpg)  
+{% gi 9 3-3-2-1... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8797.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8890.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8989.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8964.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8946.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8934.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8895.jpg)  
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8896.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220606-DSCF8933.jpg)
+{% endgi %}  
   
   
 （同场额外放送，感谢婉君同学友情出镜🌝）

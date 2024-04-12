@@ -28,13 +28,19 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/IMG_173
 **具体成像效果可以参考文章最后面放出来的图片。**
 
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4401.jpg)  
+
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4415.jpg)  
 **（由此图可见，镜头的焦外和四周成像总体看得出一丝“古典”镜头的质感）**
 
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4417.jpg)  
 **在这家咖啡店里偶遇到一位熟人，而且还是一个“富家子弟”，哈哈**
 
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230313-DSCF4435.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4432.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4428.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4424.jpg)  
+{% gi 4 2-2... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230313-DSCF4435.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4432.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4428.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230312-DSCF4424.jpg)
+{% endgi %}  
 **（相机换到Acros胶片预设直出来拍摄，镜头自身风格的氛围感更明显了）**
 
 话说回来，至于这只镜头能胜任像理光GR3x一样随意街拍速拍的效能吗？
@@ -51,11 +57,41 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/IMG_173
 
 根据铭匠的官网介绍可知，这只镜头用的是STM+导螺杆型步进马达，不过实际上效能印象中跟佳能EF 50mm/f1.8差不多，但比后者安静。对于这1000价位以下的镜头来说，又不是不能用，对吧~
 
-![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4695.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4726.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4728.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4730.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4732.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4749.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4755.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4759.jpg)
+{% gi 8 2-3-3... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4695.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4726.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4728.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4759.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4732.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4749.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4730.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4755.jpg)
+{% endgi %}
 
 3月初开始我基本上每次出门街拍、探店的时候都带了这只镜头出来拍摄，基本都能胜任。
 
-不过这只镜头的最近对焦距离是35cm，不论是拍摄什么题材，有时候想要拍摄一些特写镜头的时候略微吃力的。![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4769.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4961.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4969.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4980.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4987.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230314-DSCF4485.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230314-DSCF4488.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4686.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4662.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4667.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5059.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5057.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5054.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5110.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5115.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5074.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5087.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5097.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5101.jpg)
+不过这只镜头的最近对焦距离是35cm，不论是拍摄什么题材，有时候想要拍摄一些特写镜头的时候略微吃力的。
+{% gi 19 2-2-3-3-3-3-3... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230407-DSCF4769.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4961.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4969.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4980.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230409-DSCF4987.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230314-DSCF4485.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230314-DSCF4488.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4686.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4662.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230323-DSCF4667.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5059.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5057.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230419-DSCF5054.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5110.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5115.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5074.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5087.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5097.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230426-DSCF5101.jpg)
+{% endgi %}
 
 除此之外，我也尝试过使用这只镜头来拍摄视频。
 
@@ -69,7 +105,27 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/IMG_173
 
 最后送上我近期去香港游玩的时候，用这只镜头拍摄的一些街拍作品吧。
 
-**（问就是因为前期在纠结什么时候一个人出外旅游，纠结到这几天才拍好出文章的素材的= =）**![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5346.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5347.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5358.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5359.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5361.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5484.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5492.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5507.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5548.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5546.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5578.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5560.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5570.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5587.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5598.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5601.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230523-DSCF5637.jpg)![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230523-DSCF5636.jpg)
+**（问就是因为前期在纠结什么时候一个人出外旅游，纠结到这几天才拍好出文章的素材的= =）**
+{% gi 18 3-3-3-3-3-3... %}
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5346.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5347.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5358.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5359.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5361.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5484.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5492.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5507.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5548.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5546.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5578.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5560.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5570.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5587.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5598.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230522-DSCF5601.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230523-DSCF5637.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/20230523-DSCF5636.jpg)
+{% endgi %}
 
 由于图片比较多，一起放出来的话篇幅会太长，其余的照片将来看心情随机发吧。
 

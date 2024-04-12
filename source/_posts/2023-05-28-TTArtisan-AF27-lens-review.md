@@ -1,7 +1,8 @@
 ---
 title: 能给富士无反相机“假装”是理光GR3x相机的镜头？铭匠AF27mm X卡口镜头佛系体验分享
 date: 2023-05-28 15:45:05
-tags: [摄影,生活,旅游] 
+tags: [富士,Fujifilm,銘匠,TTArtisan,攝影,生活,旅遊] 
+categories: [新玩意體驗]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/IMG_1738.JPG 
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2023@main/IMG_1738.JPG 
 --- 

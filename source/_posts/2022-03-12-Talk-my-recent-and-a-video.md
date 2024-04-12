@@ -1,7 +1,8 @@
 ---
 title: 不经不觉到了3月，聊聊近况 | 顺便聊聊今天更新的创作短片的故事
 date: 2022-03-12 16:38:13
-tags: [摄影,生活]
+tags: [攝影,生活,拍攝現場,短片創作]
+categories: [創作記錄]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/20220310095547.png
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/20220310095547.png
 ---

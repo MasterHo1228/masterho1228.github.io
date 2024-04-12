@@ -1,7 +1,8 @@
 ---
 title: 也许是视频拍摄为主力的富士无反机玩家的必备镜头 | 富士XF 23mm f1.4 WR 镜头使用体验
 date: 2022-06-12 15:14:20
-tags: [摄影,生活]
+tags: [富士,Fujifilm,Fujinon,攝影器材,鏡頭,生活]
+categories: [新玩意體驗]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8797.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20220604-DSCF8797.jpg
 ---

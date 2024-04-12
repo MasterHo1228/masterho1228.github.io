@@ -1,7 +1,8 @@
 ---
 title: 现实世界上的“平行世界”？--游览广州铁路博物馆有感
 date: 2022-06-25 15:28:10
-tags: [摄影,生活,游记]
+tags: [film,blackandwrite,菲林,黑白,平行宇宙]
+categories: [攝影,生活,遊記]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990011.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2022/20200812-000032990011.jpg
 ---

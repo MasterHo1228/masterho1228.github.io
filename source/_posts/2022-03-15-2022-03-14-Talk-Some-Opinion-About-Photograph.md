@@ -1,7 +1,7 @@
 ---
 title: 碎碎念 | 聊一聊 我对近期摄影的一些观点
 date: 2022-03-14 22:15:00
-tags: [摄影,碎碎念]
+categories: [真心話]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-14-title.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Mar2022/2022-03-14-title.jpg
 ---

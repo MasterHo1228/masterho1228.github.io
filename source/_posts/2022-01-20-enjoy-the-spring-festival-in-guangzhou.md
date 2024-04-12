@@ -1,7 +1,8 @@
 ---
 title: 2022年，简单的在广州享受一下春节的气息
 date: 2022-01-29 14:39:50
-tags: [游记]
+tags: [遊記,攝影,街拍,新年,春節]
+categories: [攝影,遊記]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4727.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSCF4727.jpg
 ---
@@ -53,5 +54,4 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jan2022/20220120-DSC
 除此之外，我个人的微信公众号和个人博客 后续也会同步更新自己以往的旅游游记哦！有兴趣的可以关注一下~  
   
 [^Camera]: Fujifilm X-S10  
-  
 [^Lens]: Fujinon XF16-55mmF2.8 R LM WR

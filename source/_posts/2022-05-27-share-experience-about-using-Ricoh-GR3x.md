@@ -1,7 +1,8 @@
 ---
 title: 5月的慢拍时光-理光GR3x 一周使用体验
 date: 2022-05-27 20:02:03
-tags: [摄影,生活,日常]
+tags: [Ricoh,GR3x,攝影,生活,日常]
+categories: [新玩意體驗]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a689f354815cf2ded94a0e.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-May2022/564f038e2a689f354815cf2ded94a0e.jpg
 ---

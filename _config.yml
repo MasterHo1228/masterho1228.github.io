@@ -7,13 +7,13 @@ title: Mad.Ho Production's Space
 subtitle: '低調君的小小沙龍'
 description: '這裏是我post自己玩攝影器材的文章之「隱世」小店。都會間中在此寫下自己生活的牢騷片段。'
 keywords: 博客,blog,摄影,photography,生活,life,JavaScript,html5,css3,php,laravel
-author: Jony Ho
+author: Jonathan Ho
 language: zh-HK
 timezone: 'Asia/Hong_Kong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://masterho1228.github.io/
+url: https://jonyho1228.xyz/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

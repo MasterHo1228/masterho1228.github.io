@@ -33,8 +33,9 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/2024021
 {% endgi %} 
 大致看成像風格，假如你用過Tamrom 28-70mm f2.8 Full Frame變焦鏡拍過片的話，你可能會覺得 兩者的風格都好相似。相比後者，前者焦外的成像算不上軟，但是焦外的畫面有小小一定密度的光影的時候，畫面過渡不會“硬”。有時在晚上或者在室內的場景 光圈全開用盡f2.8來拍片，有時拍到一些有光源的物體的話 細節畫面會幾“鬆散”，但日常環境下 光圈開最大拍片問題不大。總體上相比後者，Tamron 17-70mm F2.8比Tamrom 28-70mm f2.8是要柔和少少的。
 
-{% gi 3 1-1-1 %}
+{% gi 4 1-1-1-1 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240216-DSCF2486.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20231220-DSCF0817.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240216-DSCF2488.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240216-DSCF2484.jpg)  
 {% endgi %}

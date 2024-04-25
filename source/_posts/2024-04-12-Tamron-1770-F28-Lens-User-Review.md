@@ -26,7 +26,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/2024021
 
 # 講下這隻鏡頭的成像
 
-{% gi 3 3... %}
+{% gi 3 3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240218-DSCF2519.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240218-DSCF2523.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Apr2024@main/20240212-DSCF2423.jpg) 

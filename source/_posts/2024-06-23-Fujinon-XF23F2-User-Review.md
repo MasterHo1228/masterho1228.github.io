@@ -85,7 +85,7 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/2023021
 {% endgi %}
 
 無論在日間 縮小光圈玩街拍，成像同後者一樣的清鋭；或者在夜間、室內的環境下，將光圈開大來拍一些物體，前者的細節展現都有同後者相近的「棉質感一般細膩」。
-{% gi 22 3 3 3 3 3 3 4 %}
+{% gi 20 3 3 3 3 3 3 2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240518-DSCF4257.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240518-DSCF4269.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20221025-DSCF1787.jpg)
@@ -103,7 +103,6 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/2023021
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240531-DSCF4486.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20220821-DSCF0418.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20220821-DSCF0416.jpg)
-  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20220807-DSCF0260.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240427-DSCF3938.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240427-DSCF3934.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20240519-DSCF4312.jpg)

@@ -2,7 +2,7 @@
 title: 今昔是何年？我拿起了来自10年前的一台iPhone 4S记录了我的日常
 date: 2023-07-09 15:09:30
 tags: [Apple,iPhone,iPhone4S,手機,攝影,生活]
-categories: [新玩意體驗]
+categories: [攝影,新玩意體驗]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230624-DSCF6168.jpg 
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2023@main/20230624-DSCF6168.jpg
 ---

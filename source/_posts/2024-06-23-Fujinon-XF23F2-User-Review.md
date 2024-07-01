@@ -2,6 +2,7 @@
 title: 發掘我的「第三隻眼」之路上 忠厚老實的好夥伴｜Fujinon XF23mmF2 R WR定焦鏡頭日常體驗
 date: 2024-06-23 20:11:34
 tags: [Fujifilm,Fujinon,遊記,攝影,攝影器材,街拍,香港,HongKong,廣州,Canton,Guangzhou]
+categories: [攝影,生活,遊記]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/1717903348205.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jun2024@main/20230212-DSCF4021.jpg
 ---

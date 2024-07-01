@@ -1,7 +1,8 @@
 ---
 title: 探訪即將消失的村落-茶果嶺村
 date: 2024-07-01 17:14:05
-tags: [Fujifilm,Fujinon,Sigma,遊記,攝影,香港,HongKong]
+tags: [Fujifilm,Fujinon,FujinonXF23F2RWR,Sigma,Sigma1850DGDN,遊記,攝影,香港,HongKong,茶果嶺,ChaKwoLing]
+categories: [遊記]
 index_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240329-DSCF3532.jpg
 banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240329-DSCF3538.jpg
 ---
@@ -130,10 +131,16 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/2024032
 
 開記的老闆一樣都係好好相處的，不過我實在靦腆過頭，就齋同老闆打個招呼 輕輕傾了幾句就罷，埋單之後默默離去。
 
-{% gi 3 1 1 1 %}
+{% gi 9 3 3 3 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4443.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4450.jpg)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4441.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4451.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4452.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4453.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4454.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4455.jpg)
+  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/images-Jul2024@main/20240529-DSCF4456.jpg)
 {% endgi %}
 之後，為了散散餐後的“飯氣”，臨走之前都順便行入村入邊行了一轉。
 

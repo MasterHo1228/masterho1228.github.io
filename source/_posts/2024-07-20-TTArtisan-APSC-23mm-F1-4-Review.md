@@ -122,10 +122,9 @@ banner_img: https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/
 
 就算你選擇按下快門，經過它成像 傳到CMOS，最後交出來的畫面 都不會令你感到遺憾。
 
-{% gi 5 3 2 %}
+{% gi 4 2 2 %}
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Jul2024/20240706-DSCF5089.6pneibjol1.webp)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Jul2024/20240712-DSCF5141.8hgdd831hp.webp)
-  ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Jul2024/20240703-DSCF4920.5q7b53wmh7.webp)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Jul2024/20240704-DSCF4946.4xufnf737u.webp)
   ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Jul2024/20240712-DSCF5167.32huusunmn.webp)
 {% endgi %}

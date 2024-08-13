@@ -102,6 +102,10 @@ Fuji的5代機身的對焦系統，雖然日常使用的時候 AF-C的效能相�
   
 雖然老實講，Reala Ace在一些高低光反差高的地方（譬如霓虹燈為主光源的場景、夜晚街景等等…）的展現，對比前輩ETERNA更加有韻味，不過可能我近排影的題材都是「是但求其影」的相片為主，至於夜間拍攝的題材 就無以前那麼熱衷了，它的真正功力我未能夠真正試出來。或者將來有機會拍類似題材的片，就到時再講啦，哈哈~（苦笑）  
   
+另外，之前試機的那幾日時間裡邊，因為自己「屎忽痕」 想試試用這台細相機的Video Record功能，沒想到出片的效果都幾OK的。  
+這裏就將試機的片Share出來，有興趣的朋友自己點入去看啦。  
+[![漫长的咖啡时光-富士X100VI视频实拍【低调君的Vlog｜Vol.84】](https://img.youtube.com/vi/SRHapBe3P-k/0.jpg)](https://youtu.be/SRHapBe3P-k)  
+  
 # 上面講了那麼多，定個結論啦。  
 首先，Mute晒外圍一切評論同吹捧的聲音，讓我來評價Fuji X100VI這部相機的話，它確實是好適合一些稍有追求的攝影用家 出街常備在背囊，間中拿在手上做日常畫面記錄的機。  
 但假如靠它來拍一些嚴肅題材的片，放在我主顧意念上諗到的情況來看，它是不太適合的。  
@@ -115,6 +119,7 @@ Fuji的5代機身的對焦系統，雖然日常使用的時候 AF-C的效能相�
   
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Aug2024/IMG_5463.9dcvr7d43k.webp)
 ![](https://cdn.jsdelivr.net/gh/MasterHo1228/picx-images-hosting@master/Aug2024/24-07-28-DSCF9460.6f0lnp58mb.webp)  
+  
   
 （完）  
 得閒飲茶！
